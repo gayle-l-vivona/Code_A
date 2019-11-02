@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dmitri Hvorostovsky - Great Russian Baritone</title>
+  <link rel="stylesheet" href="css/makeMusic.css"><!-- Add link tag below -->
+  <link href="https://fonts.googleapis.com/css?family=Underdog&display=swap" rel="stylesheet"> 
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+
+<div class="imgContainer">
+<img id="Dmitri-HvorostovskyImg" src="Dmitri Hvorostovsky">
+</div>
+
+<ol>
+  <h1>Dmitri Hvorostovsky: Russian Baritone</h1> <!-- Notice how lists can contain other html elements like the <h1> tag. Our list now has a title! -->
+  <li>Born: October 16, 1962, in Krasnoyarsk, central Siberia, Russia</li>
+  <li>Died: November 22, 2017</li>
+  <li>Died: November 22, 2017</li>
+  <li>Opera singer</li>
+  <p>
+    Dmitri Hvorostovsky was known for his velvety voice. He became a soloist at the Krasnoyarsk Opera in 1986, won the Russian Glinka National Competition, then attracted attention by winning vocal contests at Toulouse, France, in 1988 and then Cardiff in 1989.
+  </p> <!-- Lists can contain paragraph tags too! -->
+</ol>
+
+<!-- unicode left and right quotes
+&ldquo;
+&rdquo; -->
+
+<blockquote>
+   "I wouldn't sing with Madonna for 1 million dollars!"
+</blockquote>
+
+<div class="photoGallery">
+  <h2>Bandmates</h2>
+    <img src="http://place-puppy.com/200x300">
+    <img src="http://place-puppy.com/400x300">
+    <img src="http://place-puppy.com/300x400">
+</div>
+
+</body>
+
+<footer>
+  links and more footer stuff
+</footer>
